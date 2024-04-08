@@ -9,7 +9,6 @@ class SelectionSort {
         }
         System.out.println();
     }
-
     
     public static void selectionSort(int[] a){
         int n = a.length;
