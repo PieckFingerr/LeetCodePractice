@@ -1,4 +1,4 @@
-package Arrays_str;
+
 
 public class _724_Pivot_Idex {
     

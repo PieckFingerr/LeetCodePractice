@@ -1,4 +1,4 @@
-package Arrays_str;
+
 
 public class _941_ValidMounTain {
     public boolean validMountainArray(int[] arr) {

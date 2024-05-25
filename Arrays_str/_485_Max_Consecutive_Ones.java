@@ -1,4 +1,4 @@
-package Arrays_str;
+
 
 /**
  * _485_Max_Consecutive_Ones

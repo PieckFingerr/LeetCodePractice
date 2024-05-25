@@ -1,4 +1,4 @@
-package Arrays_str;
+
 
 public class _1295_Find_Number_With_Even_Number {
     public static int findNumbers(int[] n) 

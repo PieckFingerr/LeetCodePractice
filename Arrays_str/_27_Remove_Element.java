@@ -1,4 +1,4 @@
-package Arrays_str;
+
 
 public class _27_Remove_Element {
     public static int removeElement(int[] nums, int val) {

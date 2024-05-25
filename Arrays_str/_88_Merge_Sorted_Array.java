@@ -1,4 +1,4 @@
-package Arrays_str;
+
 
 public class _88_Merge_Sorted_Array {
     public static void merge(int[] n1, int m, int[] n2, int n){
