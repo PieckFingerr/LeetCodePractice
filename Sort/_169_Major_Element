@@ -1,0 +1,11 @@
+class Solution {
+    public int majorityElement(int[] nums) {
+        int ans = 0, cnt = 0;
+        for (int a : nums) {
+            if (cnt == 0) ans = a;
+            if (ans == a) cnt++;
+            else cnt--;
+        }       
+        return ans;
+    }
+}
